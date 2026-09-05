@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:07111f,45:0ea5e9,100:7c3aed&text=FAHEEM&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20MERN%20Stack&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:07111f,45:0ea5e9,100:7c3aed&text=MOHD%20FAHEEM&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20MERN%20Stack&descAlignY=58&animation=fadeIn" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&lines=Building+clean%2C+scalable+web+applications;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Frontend+%E2%86%92+Backend+%E2%86%92+Deployment;Turning+ideas+into+production-ready+products" alt="Typing SVG" />
 
