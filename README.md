@@ -131,13 +131,7 @@ A modern developer portfolio created to showcase my skills, projects, experience
 
 ---
 
-## 📈 Contribution Activity
 
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mr-faheem&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
-
----
 
 ## 🎯 What I’m Building Toward
 
